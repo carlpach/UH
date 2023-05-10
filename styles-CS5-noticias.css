@@ -1,0 +1,63 @@
+.he-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+}
+
+
+.d-box {
+    margin: 0px 35px;
+}
+
+.ul-padd {
+    padding-left: 20px;
+}
+
+.h1-marg {
+    margin: 0.1em;
+}
+
+
+
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0px;
+}
+
+.box-prend {
+    display: flex;
+    flex-direction: column;
+    width: calc(33% - 20px);
+    margin: 10px;
+    align-items: baseline;
+
+}
+
+.img-prend {
+    width: 100%;
+}
+
+.p-box-prenda {
+    margin-top: 0.5em;
+    font-size: 12px;
+}
+
+.p-font {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.fift {
+    width: calc(20% - 20px);
+}
+
+.h1-title {
+    margin: 5px 15px;
+}
+
+.d-flex-less {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+}
